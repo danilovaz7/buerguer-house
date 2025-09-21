@@ -54,7 +54,7 @@ function App() {
         <div  id="sobremesas" className="w-[100%] gap-10 pt-10 bg-[#252525] flex flex-col justify-centerfy- items-center">
           <h1 className="text-2xl text-[#e8d202] md:text-3xl font-bold gradient-text">Sobremesas</h1>
           <div className="w-[80%] flex justify-start items-center flex-wrap ">
-            <ItemCard image={brownie} name={"Brownie caseiro"} description={"2 pedaços de brownies, acompanha 1 bola de sorvete (consultar sabores) e calda de chocolate meio-amargo"} price={"25,00"} />
+            <ItemCard image={brownie} name={"Brownie caseiro"} description={"2 pedaços de brownies, acompanha 1 bola de sorvete (consultar sabores) e calda de chocolate meio-amargo"} price={"26,00"} />
             <ItemCard image={petit} name={"Petit-gateau"} description={"Nosso carro-chefe, petit-gateau, com sorvete de creme, acompanhado por frutas-vermelhas"} price={"32,99"} />
           </div>
         </div>
